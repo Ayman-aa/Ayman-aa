@@ -4,7 +4,6 @@
 
 - 📫 How to reach me **aymaneaamam@gmail.com**
 - 📝 I regularly write articles on **https://medium.com/@aymaneaamam**
-- 📄 Know about my experiences **https://urlis.net/t3mqohau**
 
 <div> <a href="https://twitter.com/AamamAyman" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://github.com/Ayman-aa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
